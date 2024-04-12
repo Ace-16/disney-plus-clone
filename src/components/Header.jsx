@@ -6,7 +6,7 @@ function Header() {
     <Nav>
       <Logo src="/images/logo.svg" />
       <NavMenu>
-        <a>
+        <a >
           <img src="/images/home-icon.svg" alt="home-icon" />
           <span>HOME</span>
         </a>
@@ -31,7 +31,7 @@ function Header() {
           <span>SERIES</span>
         </a>
       </NavMenu>
-      <UserImg src='/images/userimg.jpg'/>
+      <UserImg src='/images/userimg.jpg' />
     </Nav>
   )
 }
